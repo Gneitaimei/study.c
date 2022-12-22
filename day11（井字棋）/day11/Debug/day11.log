@@ -1,0 +1,11 @@
+﻿生成启动时间为 2022/12/22 16:40:48。
+     1>项目“G:\vs\project\day11\day11\day11.vcxproj”在节点 2 上(ClCompile 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (day11.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         G:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt game.c
+         game.c
+     1>已完成生成项目“G:\vs\project\day11\day11\day11.vcxproj”(ClCompile 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.15
